@@ -11,7 +11,7 @@ ai_punishment_count = 0
 base_fall_interval = 1000
 ai_fall_multiplier = 0.5
 pygame.mixer.init()
-pygame.mixer.music.load('D:/SOFT/navCanadaTetris/盖世英雄0.3.mp3')
+pygame.mixer.music.load('盖世英雄0.3.mp3')
 pygame.mixer.music.set_volume(0.5)
 pygame.mixer.music.play(-1)
 
